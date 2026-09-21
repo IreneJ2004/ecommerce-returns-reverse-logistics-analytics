@@ -1,0 +1,49 @@
+product_id,product_name,category,price,cost
+1,Fashion Item 1,Fashion & Apparel,1110.0,721.5
+2,Fashion Item 2,Fashion & Apparel,1190.0,773.5
+3,Fashion Item 3,Fashion & Apparel,1770.0,1150.5
+4,Fashion Item 4,Fashion & Apparel,970.0,630.5
+5,Fashion Item 5,Fashion & Apparel,1960.0,1274.0
+6,Fashion Item 6,Fashion & Apparel,1510.0,981.5
+7,Fashion Item 7,Fashion & Apparel,2150.0,1397.5
+8,Fashion Item 8,Fashion & Apparel,1870.0,1215.5
+9,Footwear Item 1,Footwear,3370.0,2291.6
+10,Footwear Item 2,Footwear,3700.0,2516.0
+11,Footwear Item 3,Footwear,2560.0,1740.8
+12,Footwear Item 4,Footwear,2600.0,1768.0
+13,Footwear Item 5,Footwear,3000.0,2040.0
+14,Footwear Item 6,Footwear,2370.0,1611.6
+15,Footwear Item 7,Footwear,3740.0,2543.2
+16,Footwear Item 8,Footwear,3900.0,2652.0
+17,Electronics Item 1,Electronics,13790.0,11859.4
+18,Electronics Item 2,Electronics,13140.0,11300.4
+19,Electronics Item 3,Electronics,10800.0,9288.0
+20,Electronics Item 4,Electronics,12810.0,11016.6
+21,Electronics Item 5,Electronics,9950.0,8557.0
+22,Electronics Item 6,Electronics,13330.0,11463.8
+23,Electronics Item 7,Electronics,12780.0,10990.8
+24,Electronics Item 8,Electronics,11450.0,9847.0
+25,Home Item 1,Home & Kitchen,3150.0,2268.0
+26,Home Item 2,Home & Kitchen,2250.0,1620.0
+27,Home Item 3,Home & Kitchen,1080.0,777.6
+28,Home Item 4,Home & Kitchen,3170.0,2282.4
+29,Home Item 5,Home & Kitchen,2450.0,1764.0
+30,Home Item 6,Home & Kitchen,2550.0,1836.0
+31,Home Item 7,Home & Kitchen,1740.0,1252.8
+32,Home Item 8,Home & Kitchen,1990.0,1432.8
+33,Beauty Item 1,Beauty & Personal Care,740.0,429.2
+34,Beauty Item 2,Beauty & Personal Care,410.0,237.8
+35,Beauty Item 3,Beauty & Personal Care,590.0,342.2
+36,Beauty Item 4,Beauty & Personal Care,1130.0,655.4
+37,Beauty Item 5,Beauty & Personal Care,810.0,469.8
+38,Beauty Item 6,Beauty & Personal Care,510.0,295.8
+39,Beauty Item 7,Beauty & Personal Care,780.0,452.4
+40,Beauty Item 8,Beauty & Personal Care,540.0,313.2
+41,Accessories Item 1,Accessories,1390.0,861.8
+42,Accessories Item 2,Accessories,810.0,502.2
+43,Accessories Item 3,Accessories,910.0,564.2
+44,Accessories Item 4,Accessories,1130.0,700.6
+45,Accessories Item 5,Accessories,1290.0,799.8
+46,Accessories Item 6,Accessories,1320.0,818.4
+47,Accessories Item 7,Accessories,890.0,551.8
+48,Accessories Item 8,Accessories,1560.0,967.2

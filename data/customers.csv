@@ -1,0 +1,601 @@
+customer_id,customer_name,city,signup_date,is_serial_returner
+1,Kiara Thomas,Delhi NCR,2024-09-03,False
+2,Vikram Pai,Mumbai,2025-02-22,False
+3,Arun Shetty,Bangalore,2024-12-09,False
+4,Meera Bose,Chennai,2025-01-11,False
+5,Arjun Bose,Mumbai,2025-02-03,False
+6,Arjun Chatterjee,Kochi,2024-04-01,False
+7,Deepa Pai,Mumbai,2024-04-19,False
+8,Ananya Iyer,Delhi NCR,2024-11-28,False
+9,Kavya Iyer,Bangalore,2024-09-07,False
+10,Sanjay Reddy,Pune,2024-06-04,False
+11,Kavya Gupta,Hyderabad,2025-01-23,False
+12,Saanvi Sharma,Pune,2024-11-02,False
+13,Rohan Krishnan,Kochi,2024-05-13,True
+14,Arun Shetty,Mumbai,2024-05-03,False
+15,Diya Shetty,Bangalore,2024-10-11,False
+16,Ananya Das,Delhi NCR,2024-12-08,False
+17,Sneha Gupta,Kochi,2024-06-17,False
+18,Anjali Thomas,Hyderabad,2024-05-11,True
+19,Deepa Joseph,Kochi,2024-10-02,False
+20,Lakshmi Shetty,Pune,2024-10-18,False
+21,Kavya Bose,Mumbai,2024-10-27,False
+22,Myra Pai,Chennai,2024-12-15,True
+23,Anjali Mathew,Pune,2024-08-05,False
+24,Myra Sharma,Mumbai,2024-12-06,False
+25,Myra Krishnan,Mumbai,2025-02-21,False
+26,Meera Rao,Hyderabad,2024-08-04,True
+27,Karthik Krishnan,Bangalore,2024-06-29,False
+28,Anjali Shetty,Mumbai,2024-06-02,False
+29,Rohan Shetty,Mumbai,2024-11-18,False
+30,Anjali Thomas,Pune,2024-11-13,True
+31,Vivaan Chatterjee,Mumbai,2024-04-07,False
+32,Saanvi Pai,Mumbai,2024-12-25,False
+33,Karthik Sharma,Bangalore,2024-10-05,False
+34,Sneha Kumar,Bangalore,2024-07-02,False
+35,Priya Sharma,Delhi NCR,2024-09-11,False
+36,Diya Gupta,Pune,2024-06-12,False
+37,Sneha Reddy,Kochi,2024-07-20,False
+38,Vivaan Mathew,Bangalore,2024-04-10,True
+39,Pooja Gupta,Pune,2024-11-17,False
+40,Neha Das,Mumbai,2024-12-17,False
+41,Ishaan Nair,Mumbai,2024-08-05,False
+42,Aarav Iyer,Pune,2024-11-23,False
+43,Neha Mathew,Chennai,2024-08-09,False
+44,Saanvi Thomas,Chennai,2024-09-21,False
+45,Kabir Krishnan,Hyderabad,2025-02-14,False
+46,Myra Rao,Bangalore,2024-10-16,False
+47,Ananya Reddy,Kochi,2024-06-28,False
+48,Saanvi Pai,Delhi NCR,2024-06-28,False
+49,Pooja Reddy,Hyderabad,2024-05-22,False
+50,Arun Pillai,Kochi,2024-09-15,False
+51,Rahul Das,Kochi,2024-07-06,False
+52,Kabir Kumar,Kochi,2024-04-14,False
+53,Arun Chatterjee,Kochi,2024-04-12,True
+54,Rohan Singh,Chennai,2024-04-22,False
+55,Aditya Reddy,Delhi NCR,2025-02-12,False
+56,Divya Nair,Pune,2025-01-29,False
+57,Diya Kumar,Delhi NCR,2024-06-01,False
+58,Kavya Joseph,Chennai,2025-02-12,False
+59,Vikram Mathew,Delhi NCR,2024-08-12,False
+60,Saanvi Das,Bangalore,2024-10-03,False
+61,Karthik Verma,Mumbai,2024-12-01,False
+62,Divya Mathew,Pune,2024-04-22,False
+63,Ananya Kumar,Mumbai,2024-05-21,False
+64,Kiara Thomas,Hyderabad,2024-07-13,False
+65,Rahul Thomas,Pune,2024-11-10,False
+66,Sneha Shetty,Delhi NCR,2024-12-19,False
+67,Naveen Thomas,Pune,2024-08-21,False
+68,Deepa Thomas,Bangalore,2024-04-09,False
+69,Meera Krishnan,Bangalore,2025-01-06,False
+70,Deepa Thomas,Pune,2024-04-21,False
+71,Vikram Rao,Chennai,2024-07-03,False
+72,Manoj Singh,Mumbai,2024-08-03,False
+73,Rahul Joseph,Chennai,2024-10-02,False
+74,Saanvi Das,Hyderabad,2024-07-17,False
+75,Kiara Iyer,Hyderabad,2024-05-31,False
+76,Kabir Pai,Chennai,2024-06-11,False
+77,Ananya Menon,Delhi NCR,2024-08-10,False
+78,Kiara Bose,Chennai,2024-09-11,False
+79,Vivaan Mathew,Pune,2024-05-29,False
+80,Kabir Iyer,Mumbai,2024-07-05,False
+81,Aditya Nair,Chennai,2024-07-25,False
+82,Aditya Mathew,Hyderabad,2024-05-11,False
+83,Aarav Rao,Delhi NCR,2024-04-10,False
+84,Lakshmi Mathew,Kochi,2025-01-27,False
+85,Saanvi Joseph,Pune,2024-12-30,False
+86,Divya Iyer,Mumbai,2025-02-10,False
+87,Vivaan Rao,Pune,2024-05-19,False
+88,Sanjay Pai,Chennai,2024-12-01,False
+89,Vivaan Rao,Delhi NCR,2024-09-11,False
+90,Kabir Iyer,Pune,2024-11-02,True
+91,Aarav Gupta,Bangalore,2024-08-19,False
+92,Priya Pai,Hyderabad,2024-07-27,False
+93,Ishaan Reddy,Bangalore,2025-01-19,False
+94,Neha Joseph,Delhi NCR,2024-06-21,False
+95,Aarav Pai,Mumbai,2024-08-02,False
+96,Sanjay Krishnan,Mumbai,2025-02-21,False
+97,Vikram Joseph,Mumbai,2024-04-25,False
+98,Pooja Chatterjee,Bangalore,2024-09-19,True
+99,Anjali Nair,Delhi NCR,2024-06-01,False
+100,Arun Das,Delhi NCR,2024-09-03,False
+101,Rohan Bose,Bangalore,2024-09-29,False
+102,Manoj Nair,Delhi NCR,2024-08-02,False
+103,Vivaan Das,Bangalore,2024-08-24,True
+104,Myra Shetty,Mumbai,2025-02-16,False
+105,Arun Krishnan,Mumbai,2025-01-14,False
+106,Divya Krishnan,Delhi NCR,2024-09-08,False
+107,Anjali Kumar,Chennai,2025-01-31,False
+108,Pooja Reddy,Chennai,2024-06-06,False
+109,Pooja Thomas,Mumbai,2025-02-16,False
+110,Naveen Pai,Pune,2024-07-11,False
+111,Sanjay Gupta,Bangalore,2024-07-01,False
+112,Neha Rao,Kochi,2024-12-10,False
+113,Suresh Pillai,Kochi,2024-05-10,False
+114,Kabir Chatterjee,Delhi NCR,2024-04-05,False
+115,Myra Menon,Kochi,2024-05-09,False
+116,Pooja Pai,Mumbai,2024-09-14,False
+117,Kiara Iyer,Mumbai,2024-05-27,False
+118,Divya Menon,Delhi NCR,2025-02-15,False
+119,Kavya Pai,Delhi NCR,2024-05-07,False
+120,Suresh Mathew,Pune,2024-12-27,True
+121,Priya Singh,Bangalore,2024-04-06,False
+122,Saanvi Thomas,Mumbai,2025-02-27,False
+123,Arun Nair,Pune,2024-11-23,False
+124,Deepa Singh,Chennai,2024-09-29,False
+125,Aarav Reddy,Delhi NCR,2024-05-04,True
+126,Manoj Gupta,Mumbai,2024-10-21,False
+127,Priya Singh,Hyderabad,2024-12-01,False
+128,Kiara Mathew,Mumbai,2024-05-10,False
+129,Arun Krishnan,Bangalore,2024-11-08,False
+130,Karthik Menon,Hyderabad,2024-04-12,False
+131,Myra Mathew,Bangalore,2024-05-30,False
+132,Ananya Reddy,Chennai,2024-07-29,False
+133,Kiara Chatterjee,Kochi,2024-08-01,False
+134,Saanvi Shetty,Delhi NCR,2024-08-18,False
+135,Divya Pai,Hyderabad,2024-06-04,False
+136,Saanvi Nair,Bangalore,2024-06-30,False
+137,Aarav Nair,Chennai,2025-02-09,False
+138,Naveen Pillai,Chennai,2024-10-15,True
+139,Anjali Joseph,Delhi NCR,2024-11-20,False
+140,Meera Mathew,Mumbai,2024-12-18,False
+141,Deepa Verma,Bangalore,2025-01-06,False
+142,Karthik Joseph,Chennai,2024-09-20,False
+143,Priya Joseph,Bangalore,2024-06-02,False
+144,Neha Verma,Kochi,2024-10-24,False
+145,Pooja Gupta,Bangalore,2024-09-18,False
+146,Priya Reddy,Hyderabad,2024-12-17,False
+147,Kavya Kumar,Mumbai,2024-12-15,False
+148,Divya Joseph,Hyderabad,2024-10-07,False
+149,Suresh Chatterjee,Mumbai,2025-01-08,False
+150,Neha Rao,Kochi,2024-06-12,False
+151,Karthik Gupta,Pune,2025-01-18,False
+152,Deepa Thomas,Hyderabad,2024-06-08,False
+153,Arun Pillai,Bangalore,2024-11-15,False
+154,Naveen Menon,Chennai,2024-09-01,False
+155,Manoj Singh,Chennai,2024-06-21,False
+156,Kabir Thomas,Bangalore,2024-06-09,False
+157,Divya Pai,Pune,2024-05-09,False
+158,Vikram Rao,Mumbai,2024-10-22,False
+159,Rohan Pai,Bangalore,2024-07-19,False
+160,Saanvi Sharma,Pune,2024-07-07,False
+161,Naveen Singh,Bangalore,2024-06-15,False
+162,Suresh Reddy,Pune,2024-05-01,False
+163,Vivaan Reddy,Mumbai,2024-05-06,True
+164,Kiara Rao,Chennai,2024-09-12,False
+165,Aditya Joseph,Chennai,2024-10-05,False
+166,Myra Nair,Bangalore,2024-11-23,False
+167,Priya Menon,Chennai,2024-06-01,False
+168,Priya Bose,Bangalore,2024-04-18,False
+169,Priya Das,Hyderabad,2024-06-01,False
+170,Lakshmi Rao,Bangalore,2024-08-04,False
+171,Rohan Pillai,Bangalore,2024-10-26,False
+172,Vivaan Das,Mumbai,2024-10-20,False
+173,Arun Pillai,Mumbai,2024-12-28,False
+174,Deepa Shetty,Bangalore,2025-01-01,False
+175,Karthik Joseph,Mumbai,2024-07-26,False
+176,Diya Krishnan,Kochi,2024-11-24,False
+177,Ishaan Singh,Delhi NCR,2024-06-02,False
+178,Rohan Iyer,Chennai,2024-09-23,True
+179,Kabir Singh,Hyderabad,2024-08-01,False
+180,Neha Das,Pune,2024-09-08,False
+181,Diya Singh,Kochi,2024-10-18,False
+182,Kiara Bose,Kochi,2024-09-01,False
+183,Priya Chatterjee,Hyderabad,2024-11-06,False
+184,Arun Das,Mumbai,2024-12-29,False
+185,Kavya Thomas,Bangalore,2024-10-25,False
+186,Anjali Rao,Hyderabad,2024-12-02,False
+187,Vikram Verma,Chennai,2024-11-09,False
+188,Deepa Menon,Delhi NCR,2024-07-18,False
+189,Vikram Krishnan,Bangalore,2024-09-20,False
+190,Anjali Thomas,Delhi NCR,2024-10-04,False
+191,Aditya Shetty,Pune,2024-12-09,False
+192,Lakshmi Krishnan,Bangalore,2025-01-10,False
+193,Kavya Pai,Bangalore,2024-06-17,False
+194,Vivaan Das,Delhi NCR,2024-07-18,False
+195,Kiara Mathew,Mumbai,2024-07-02,False
+196,Naveen Sharma,Mumbai,2024-06-04,True
+197,Karthik Mathew,Hyderabad,2024-12-03,False
+198,Lakshmi Reddy,Delhi NCR,2024-11-10,False
+199,Naveen Chatterjee,Bangalore,2024-05-20,False
+200,Priya Das,Delhi NCR,2024-10-10,True
+201,Divya Krishnan,Hyderabad,2024-10-14,False
+202,Rahul Verma,Mumbai,2024-05-30,False
+203,Neha Das,Hyderabad,2024-11-12,False
+204,Kiara Joseph,Chennai,2024-06-27,False
+205,Meera Reddy,Chennai,2024-09-25,False
+206,Kavya Pai,Chennai,2024-09-03,False
+207,Rahul Thomas,Kochi,2024-05-08,False
+208,Divya Mathew,Bangalore,2025-02-02,False
+209,Manoj Pillai,Bangalore,2024-05-29,False
+210,Diya Gupta,Chennai,2024-12-09,True
+211,Karthik Iyer,Bangalore,2024-09-05,False
+212,Saanvi Thomas,Bangalore,2024-12-02,False
+213,Sanjay Das,Bangalore,2024-06-22,False
+214,Divya Singh,Bangalore,2025-01-22,False
+215,Ananya Joseph,Hyderabad,2024-12-30,False
+216,Vivaan Rao,Delhi NCR,2024-10-24,False
+217,Saanvi Pai,Mumbai,2024-10-26,False
+218,Pooja Bose,Bangalore,2024-09-19,True
+219,Lakshmi Mathew,Hyderabad,2024-12-20,False
+220,Rohan Chatterjee,Chennai,2024-06-23,False
+221,Suresh Bose,Hyderabad,2024-10-04,False
+222,Kavya Rao,Bangalore,2025-01-13,True
+223,Vikram Iyer,Pune,2024-07-08,False
+224,Divya Reddy,Kochi,2024-08-25,False
+225,Diya Rao,Bangalore,2024-05-29,False
+226,Priya Joseph,Bangalore,2024-09-29,False
+227,Arjun Joseph,Bangalore,2024-10-28,False
+228,Vivaan Sharma,Pune,2024-06-19,False
+229,Vivaan Mathew,Hyderabad,2024-09-07,False
+230,Kavya Mathew,Bangalore,2025-02-17,False
+231,Pooja Das,Bangalore,2024-06-02,False
+232,Kiara Sharma,Bangalore,2024-12-23,False
+233,Arun Menon,Chennai,2024-04-09,False
+234,Kavya Gupta,Bangalore,2024-04-29,False
+235,Divya Chatterjee,Hyderabad,2024-05-20,False
+236,Kavya Nair,Mumbai,2024-04-23,False
+237,Anjali Mathew,Hyderabad,2024-12-02,False
+238,Meera Menon,Delhi NCR,2024-10-27,False
+239,Lakshmi Kumar,Kochi,2024-06-26,False
+240,Aarav Bose,Chennai,2025-02-26,False
+241,Arun Verma,Pune,2024-10-09,False
+242,Kiara Krishnan,Kochi,2025-01-02,False
+243,Divya Das,Chennai,2024-10-06,False
+244,Anjali Singh,Mumbai,2024-04-22,False
+245,Suresh Kumar,Mumbai,2024-10-11,False
+246,Manoj Rao,Pune,2024-10-18,False
+247,Anjali Menon,Delhi NCR,2024-08-23,False
+248,Vivaan Sharma,Hyderabad,2024-09-05,False
+249,Rahul Kumar,Pune,2024-08-02,False
+250,Kabir Rao,Delhi NCR,2024-05-02,True
+251,Aarav Thomas,Delhi NCR,2024-11-09,False
+252,Ananya Das,Kochi,2024-10-27,False
+253,Karthik Nair,Bangalore,2024-08-10,False
+254,Arun Iyer,Bangalore,2024-12-25,False
+255,Naveen Chatterjee,Kochi,2024-08-15,False
+256,Arun Kumar,Bangalore,2024-11-15,False
+257,Deepa Menon,Hyderabad,2024-11-09,False
+258,Arun Bose,Delhi NCR,2024-08-19,False
+259,Saanvi Shetty,Bangalore,2024-04-06,False
+260,Vikram Shetty,Pune,2024-12-29,False
+261,Rohan Rao,Bangalore,2024-08-28,False
+262,Naveen Gupta,Hyderabad,2025-02-01,False
+263,Vikram Menon,Bangalore,2024-04-06,False
+264,Lakshmi Verma,Mumbai,2024-09-15,False
+265,Kabir Nair,Chennai,2024-12-23,False
+266,Rahul Kumar,Delhi NCR,2024-11-20,False
+267,Manoj Chatterjee,Bangalore,2024-06-24,False
+268,Neha Singh,Delhi NCR,2024-09-18,False
+269,Aarav Bose,Pune,2024-11-09,False
+270,Ananya Sharma,Mumbai,2024-05-06,False
+271,Rahul Chatterjee,Chennai,2025-01-25,False
+272,Arun Krishnan,Delhi NCR,2025-02-20,False
+273,Suresh Pillai,Hyderabad,2024-04-11,False
+274,Meera Chatterjee,Mumbai,2025-01-03,False
+275,Suresh Shetty,Pune,2024-09-04,False
+276,Sanjay Krishnan,Bangalore,2024-06-02,False
+277,Pooja Verma,Bangalore,2024-08-06,False
+278,Priya Menon,Mumbai,2025-02-05,False
+279,Manoj Das,Delhi NCR,2024-05-08,False
+280,Diya Das,Hyderabad,2024-09-04,False
+281,Myra Sharma,Mumbai,2025-02-11,False
+282,Naveen Rao,Hyderabad,2024-10-24,False
+283,Myra Verma,Mumbai,2024-07-24,False
+284,Priya Das,Bangalore,2024-07-10,False
+285,Kiara Verma,Chennai,2024-06-16,False
+286,Aditya Bose,Mumbai,2025-02-21,False
+287,Sneha Sharma,Pune,2024-07-16,True
+288,Kabir Mathew,Pune,2024-09-13,False
+289,Anjali Pillai,Delhi NCR,2024-09-01,False
+290,Karthik Pillai,Delhi NCR,2024-04-23,True
+291,Aarav Chatterjee,Hyderabad,2025-01-20,False
+292,Myra Verma,Mumbai,2024-05-27,True
+293,Saanvi Nair,Delhi NCR,2024-09-01,False
+294,Rahul Pai,Hyderabad,2024-11-15,False
+295,Vivaan Shetty,Delhi NCR,2024-08-07,False
+296,Deepa Nair,Bangalore,2024-12-08,False
+297,Pooja Pillai,Delhi NCR,2025-01-30,False
+298,Priya Shetty,Mumbai,2024-11-17,False
+299,Arun Nair,Kochi,2024-05-16,False
+300,Myra Joseph,Mumbai,2024-12-17,False
+301,Myra Rao,Bangalore,2025-02-24,False
+302,Sneha Kumar,Bangalore,2024-10-26,False
+303,Ananya Mathew,Mumbai,2024-11-22,False
+304,Aarav Verma,Pune,2024-05-20,False
+305,Lakshmi Nair,Bangalore,2024-05-24,False
+306,Aarav Nair,Chennai,2024-08-26,False
+307,Deepa Nair,Hyderabad,2024-11-20,False
+308,Naveen Das,Kochi,2025-01-10,False
+309,Myra Shetty,Mumbai,2024-12-24,False
+310,Myra Shetty,Chennai,2024-10-12,False
+311,Meera Thomas,Mumbai,2024-11-23,False
+312,Rahul Joseph,Chennai,2024-08-04,False
+313,Meera Pillai,Bangalore,2024-12-15,False
+314,Kiara Rao,Kochi,2024-08-17,False
+315,Pooja Pillai,Kochi,2024-11-11,False
+316,Anjali Singh,Bangalore,2024-08-11,False
+317,Arjun Das,Mumbai,2025-01-08,False
+318,Kiara Verma,Delhi NCR,2024-08-24,False
+319,Aditya Thomas,Chennai,2024-06-13,False
+320,Kiara Kumar,Bangalore,2024-04-20,False
+321,Divya Kumar,Chennai,2024-08-26,False
+322,Meera Bose,Bangalore,2024-12-14,False
+323,Priya Nair,Chennai,2024-05-30,False
+324,Deepa Das,Mumbai,2024-09-26,False
+325,Neha Kumar,Bangalore,2024-12-12,False
+326,Rahul Rao,Chennai,2024-10-26,False
+327,Ishaan Thomas,Delhi NCR,2024-12-24,False
+328,Meera Krishnan,Delhi NCR,2024-10-25,False
+329,Ishaan Iyer,Hyderabad,2024-05-18,False
+330,Kavya Shetty,Hyderabad,2024-04-07,False
+331,Neha Gupta,Bangalore,2024-04-29,False
+332,Kiara Joseph,Mumbai,2025-01-18,False
+333,Deepa Krishnan,Hyderabad,2025-01-17,False
+334,Ananya Singh,Kochi,2024-04-28,False
+335,Kiara Joseph,Bangalore,2024-08-15,False
+336,Sanjay Das,Chennai,2024-07-16,False
+337,Pooja Gupta,Bangalore,2024-11-10,False
+338,Saanvi Bose,Bangalore,2024-12-21,True
+339,Manoj Rao,Delhi NCR,2024-07-11,False
+340,Deepa Menon,Delhi NCR,2025-02-03,True
+341,Kiara Bose,Hyderabad,2024-12-26,True
+342,Vikram Gupta,Hyderabad,2024-07-05,True
+343,Arun Singh,Chennai,2025-02-03,False
+344,Arjun Bose,Mumbai,2024-06-24,False
+345,Anjali Gupta,Bangalore,2024-07-07,False
+346,Sneha Thomas,Bangalore,2024-11-18,False
+347,Arjun Das,Bangalore,2024-06-27,False
+348,Deepa Nair,Kochi,2024-12-26,False
+349,Kabir Sharma,Hyderabad,2024-06-03,False
+350,Priya Singh,Hyderabad,2024-04-27,False
+351,Kabir Shetty,Pune,2024-05-05,False
+352,Divya Pai,Delhi NCR,2024-05-15,False
+353,Rahul Nair,Bangalore,2024-04-28,False
+354,Kavya Singh,Chennai,2024-06-28,False
+355,Neha Mathew,Delhi NCR,2024-09-23,False
+356,Rohan Reddy,Mumbai,2024-11-16,False
+357,Kiara Chatterjee,Mumbai,2024-05-26,False
+358,Aditya Nair,Pune,2024-10-14,False
+359,Ananya Kumar,Pune,2024-08-09,False
+360,Myra Pillai,Delhi NCR,2024-06-27,False
+361,Naveen Joseph,Chennai,2024-11-07,False
+362,Aarav Nair,Hyderabad,2024-04-02,False
+363,Arun Iyer,Hyderabad,2024-05-14,False
+364,Sanjay Das,Hyderabad,2024-08-04,False
+365,Pooja Mathew,Delhi NCR,2024-07-17,True
+366,Ananya Pai,Delhi NCR,2024-12-23,False
+367,Diya Bose,Mumbai,2024-09-05,False
+368,Myra Nair,Kochi,2024-06-19,True
+369,Naveen Singh,Delhi NCR,2025-02-11,False
+370,Kabir Joseph,Pune,2024-06-30,False
+371,Ishaan Pai,Bangalore,2024-10-29,False
+372,Divya Pai,Bangalore,2024-04-16,False
+373,Manoj Krishnan,Mumbai,2024-12-24,False
+374,Vivaan Das,Chennai,2024-06-06,False
+375,Lakshmi Thomas,Delhi NCR,2024-05-29,False
+376,Diya Pai,Hyderabad,2024-12-24,False
+377,Anjali Singh,Delhi NCR,2024-07-27,True
+378,Saanvi Shetty,Kochi,2024-04-15,False
+379,Vikram Menon,Bangalore,2025-02-09,False
+380,Rahul Thomas,Chennai,2024-08-21,False
+381,Vivaan Nair,Mumbai,2024-05-09,False
+382,Saanvi Iyer,Pune,2024-12-27,False
+383,Deepa Kumar,Mumbai,2024-05-20,False
+384,Aarav Pillai,Chennai,2024-05-15,False
+385,Diya Thomas,Hyderabad,2024-10-03,False
+386,Pooja Verma,Kochi,2024-12-14,False
+387,Kiara Rao,Delhi NCR,2024-09-27,False
+388,Aditya Singh,Mumbai,2024-10-26,False
+389,Priya Krishnan,Bangalore,2024-09-21,False
+390,Rohan Menon,Mumbai,2025-02-19,True
+391,Deepa Iyer,Pune,2024-08-07,False
+392,Aarav Bose,Bangalore,2024-10-13,False
+393,Karthik Singh,Delhi NCR,2025-02-08,False
+394,Suresh Kumar,Delhi NCR,2024-04-04,False
+395,Saanvi Shetty,Delhi NCR,2024-05-05,False
+396,Vivaan Reddy,Delhi NCR,2024-08-25,False
+397,Arjun Reddy,Bangalore,2024-07-06,False
+398,Manoj Pai,Pune,2024-08-27,False
+399,Priya Chatterjee,Hyderabad,2025-01-31,False
+400,Suresh Rao,Chennai,2025-01-18,False
+401,Kavya Das,Kochi,2024-06-01,False
+402,Manoj Iyer,Chennai,2024-10-06,False
+403,Neha Nair,Mumbai,2024-09-22,False
+404,Sanjay Thomas,Hyderabad,2024-09-01,False
+405,Vivaan Singh,Pune,2024-10-06,False
+406,Sneha Iyer,Pune,2024-07-10,False
+407,Deepa Sharma,Mumbai,2024-07-27,False
+408,Ishaan Gupta,Pune,2024-12-16,False
+409,Meera Kumar,Mumbai,2025-02-16,False
+410,Sneha Bose,Bangalore,2024-12-26,False
+411,Vikram Pai,Pune,2024-11-21,False
+412,Kabir Pai,Bangalore,2024-05-12,False
+413,Pooja Mathew,Delhi NCR,2025-02-10,False
+414,Kabir Das,Delhi NCR,2024-06-05,False
+415,Divya Pillai,Mumbai,2024-09-13,False
+416,Sneha Gupta,Hyderabad,2025-02-14,False
+417,Kavya Singh,Mumbai,2024-10-11,False
+418,Sneha Shetty,Hyderabad,2024-04-20,False
+419,Kabir Pai,Delhi NCR,2024-11-09,False
+420,Deepa Bose,Chennai,2024-09-30,False
+421,Rohan Verma,Mumbai,2024-10-24,False
+422,Manoj Rao,Bangalore,2024-11-15,False
+423,Rahul Bose,Bangalore,2024-06-01,False
+424,Diya Shetty,Bangalore,2024-08-13,False
+425,Pooja Mathew,Hyderabad,2024-07-20,False
+426,Kavya Pai,Bangalore,2024-07-05,False
+427,Myra Gupta,Bangalore,2025-01-23,False
+428,Karthik Rao,Hyderabad,2025-01-07,False
+429,Sanjay Menon,Bangalore,2024-04-10,False
+430,Arun Pai,Chennai,2024-07-01,False
+431,Lakshmi Mathew,Pune,2024-09-09,False
+432,Aditya Shetty,Hyderabad,2024-04-02,False
+433,Ananya Nair,Pune,2024-09-17,False
+434,Arjun Mathew,Chennai,2025-01-17,False
+435,Sanjay Sharma,Bangalore,2024-08-09,False
+436,Arun Kumar,Mumbai,2024-05-04,False
+437,Manoj Singh,Bangalore,2024-10-07,False
+438,Vikram Verma,Hyderabad,2024-11-28,False
+439,Kabir Rao,Hyderabad,2024-04-05,False
+440,Suresh Sharma,Kochi,2024-04-23,False
+441,Rohan Verma,Hyderabad,2024-07-27,False
+442,Priya Krishnan,Kochi,2024-10-10,False
+443,Sanjay Sharma,Hyderabad,2024-07-01,False
+444,Sanjay Joseph,Mumbai,2024-10-18,False
+445,Naveen Bose,Chennai,2024-06-23,False
+446,Saanvi Shetty,Pune,2024-06-30,False
+447,Saanvi Pillai,Bangalore,2024-09-12,False
+448,Rohan Chatterjee,Pune,2024-12-19,False
+449,Sneha Thomas,Mumbai,2024-11-07,False
+450,Pooja Mathew,Pune,2024-07-07,False
+451,Divya Pillai,Bangalore,2024-09-07,False
+452,Myra Rao,Bangalore,2024-06-23,False
+453,Manoj Chatterjee,Mumbai,2024-05-15,False
+454,Myra Kumar,Mumbai,2024-06-06,False
+455,Deepa Thomas,Mumbai,2024-06-19,False
+456,Kabir Krishnan,Bangalore,2025-01-20,False
+457,Priya Verma,Pune,2024-11-25,False
+458,Saanvi Rao,Bangalore,2024-07-20,False
+459,Arjun Chatterjee,Hyderabad,2024-07-28,False
+460,Suresh Das,Delhi NCR,2024-08-07,False
+461,Kiara Singh,Chennai,2025-02-27,False
+462,Vikram Gupta,Hyderabad,2025-02-09,False
+463,Sneha Mathew,Kochi,2024-05-08,False
+464,Vikram Kumar,Bangalore,2024-10-10,False
+465,Aarav Gupta,Bangalore,2024-10-28,False
+466,Divya Verma,Hyderabad,2024-06-01,False
+467,Anjali Verma,Hyderabad,2024-11-21,False
+468,Pooja Pai,Chennai,2024-06-06,False
+469,Aditya Nair,Delhi NCR,2024-09-17,False
+470,Ishaan Bose,Kochi,2024-12-26,False
+471,Lakshmi Verma,Hyderabad,2025-02-16,False
+472,Naveen Menon,Bangalore,2024-08-05,False
+473,Priya Krishnan,Chennai,2024-11-28,False
+474,Priya Rao,Hyderabad,2025-02-13,False
+475,Anjali Singh,Bangalore,2024-12-03,False
+476,Myra Das,Mumbai,2024-10-23,False
+477,Pooja Gupta,Pune,2024-05-17,True
+478,Arun Pillai,Mumbai,2024-05-08,False
+479,Lakshmi Thomas,Chennai,2024-10-03,False
+480,Kabir Reddy,Mumbai,2024-12-12,False
+481,Meera Thomas,Pune,2024-08-03,False
+482,Vivaan Shetty,Bangalore,2025-02-05,False
+483,Sanjay Krishnan,Bangalore,2024-11-16,False
+484,Vikram Verma,Mumbai,2025-01-17,False
+485,Kiara Rao,Hyderabad,2024-07-27,False
+486,Pooja Mathew,Pune,2024-05-20,False
+487,Aarav Verma,Delhi NCR,2024-08-12,False
+488,Manoj Chatterjee,Hyderabad,2024-05-11,False
+489,Anjali Bose,Delhi NCR,2024-07-22,False
+490,Ananya Gupta,Delhi NCR,2025-01-07,False
+491,Suresh Pillai,Delhi NCR,2025-02-01,False
+492,Rahul Chatterjee,Chennai,2024-09-08,False
+493,Neha Shetty,Mumbai,2024-04-12,False
+494,Diya Nair,Bangalore,2024-12-08,False
+495,Neha Rao,Kochi,2024-11-20,False
+496,Kabir Singh,Hyderabad,2025-02-20,True
+497,Sneha Menon,Mumbai,2024-07-08,False
+498,Manoj Chatterjee,Mumbai,2024-07-29,False
+499,Vikram Shetty,Mumbai,2024-10-24,False
+500,Sanjay Chatterjee,Delhi NCR,2025-01-15,False
+501,Ananya Reddy,Kochi,2024-06-19,False
+502,Naveen Krishnan,Mumbai,2024-09-06,False
+503,Arun Singh,Chennai,2025-01-08,False
+504,Ishaan Shetty,Pune,2024-04-20,False
+505,Kavya Chatterjee,Mumbai,2024-06-28,False
+506,Sneha Gupta,Pune,2024-09-30,False
+507,Vivaan Thomas,Bangalore,2024-10-10,False
+508,Kavya Das,Mumbai,2024-12-29,False
+509,Aarav Sharma,Mumbai,2024-12-22,False
+510,Aarav Joseph,Pune,2024-07-06,False
+511,Deepa Bose,Bangalore,2024-04-24,False
+512,Divya Mathew,Kochi,2024-08-30,False
+513,Rohan Bose,Chennai,2024-09-14,False
+514,Kiara Bose,Chennai,2024-06-19,False
+515,Saanvi Singh,Bangalore,2025-02-24,False
+516,Deepa Iyer,Mumbai,2024-12-28,False
+517,Aarav Mathew,Chennai,2024-07-15,False
+518,Sanjay Das,Bangalore,2024-08-16,False
+519,Aarav Reddy,Delhi NCR,2024-05-27,False
+520,Meera Sharma,Bangalore,2024-09-17,False
+521,Rohan Singh,Chennai,2024-06-20,False
+522,Saanvi Singh,Hyderabad,2024-11-05,False
+523,Lakshmi Iyer,Bangalore,2025-02-25,True
+524,Karthik Iyer,Pune,2024-09-05,False
+525,Rahul Kumar,Pune,2024-08-29,False
+526,Karthik Krishnan,Bangalore,2024-06-23,False
+527,Deepa Singh,Bangalore,2024-12-24,False
+528,Arun Chatterjee,Bangalore,2024-10-28,False
+529,Arjun Kumar,Pune,2024-04-06,False
+530,Rahul Shetty,Delhi NCR,2024-04-24,False
+531,Kiara Menon,Kochi,2024-06-02,False
+532,Pooja Krishnan,Pune,2024-10-08,False
+533,Sanjay Menon,Delhi NCR,2024-06-23,False
+534,Neha Reddy,Mumbai,2024-11-01,True
+535,Priya Das,Bangalore,2024-05-27,False
+536,Neha Gupta,Chennai,2024-08-02,False
+537,Arun Chatterjee,Delhi NCR,2024-10-14,False
+538,Vivaan Reddy,Bangalore,2024-10-03,False
+539,Lakshmi Thomas,Mumbai,2024-11-15,False
+540,Aditya Shetty,Delhi NCR,2024-09-15,False
+541,Neha Chatterjee,Bangalore,2024-08-16,False
+542,Sneha Shetty,Delhi NCR,2025-01-17,True
+543,Pooja Iyer,Chennai,2024-11-15,False
+544,Divya Shetty,Bangalore,2025-02-26,True
+545,Neha Chatterjee,Mumbai,2024-10-19,False
+546,Naveen Iyer,Bangalore,2024-04-27,False
+547,Diya Joseph,Bangalore,2025-01-10,False
+548,Naveen Joseph,Delhi NCR,2025-01-23,False
+549,Anjali Mathew,Kochi,2024-07-27,False
+550,Lakshmi Iyer,Mumbai,2024-08-13,False
+551,Sanjay Krishnan,Hyderabad,2025-01-29,False
+552,Vivaan Bose,Chennai,2024-11-12,False
+553,Meera Reddy,Hyderabad,2024-05-21,False
+554,Kabir Joseph,Bangalore,2024-07-22,False
+555,Manoj Kumar,Chennai,2024-07-23,False
+556,Myra Joseph,Pune,2024-08-25,False
+557,Rohan Gupta,Mumbai,2024-04-10,False
+558,Neha Chatterjee,Kochi,2024-06-29,False
+559,Anjali Nair,Kochi,2024-11-27,False
+560,Aarav Reddy,Kochi,2024-08-09,False
+561,Vikram Nair,Pune,2024-08-20,False
+562,Aditya Chatterjee,Kochi,2024-07-26,False
+563,Vivaan Shetty,Pune,2024-12-29,False
+564,Priya Nair,Mumbai,2024-05-02,True
+565,Sanjay Chatterjee,Pune,2024-07-26,False
+566,Divya Bose,Pune,2024-10-22,False
+567,Naveen Bose,Mumbai,2024-10-27,False
+568,Arun Mathew,Kochi,2024-10-19,False
+569,Pooja Pillai,Bangalore,2024-10-01,False
+570,Rohan Singh,Hyderabad,2025-01-27,False
+571,Diya Verma,Delhi NCR,2024-10-27,False
+572,Priya Pai,Hyderabad,2024-08-19,False
+573,Sanjay Bose,Mumbai,2024-08-07,False
+574,Saanvi Iyer,Mumbai,2025-01-25,False
+575,Suresh Sharma,Mumbai,2024-06-19,False
+576,Meera Shetty,Chennai,2024-10-08,False
+577,Vikram Krishnan,Kochi,2024-05-30,False
+578,Divya Rao,Delhi NCR,2024-12-15,False
+579,Manoj Mathew,Hyderabad,2024-09-23,False
+580,Divya Das,Delhi NCR,2024-11-21,False
+581,Myra Mathew,Bangalore,2024-10-29,False
+582,Myra Verma,Hyderabad,2025-01-05,False
+583,Divya Joseph,Bangalore,2024-11-18,False
+584,Aarav Reddy,Delhi NCR,2024-10-30,False
+585,Karthik Iyer,Bangalore,2024-08-07,False
+586,Suresh Menon,Bangalore,2024-09-15,False
+587,Priya Singh,Hyderabad,2025-01-16,False
+588,Saanvi Pillai,Mumbai,2024-05-28,False
+589,Arjun Chatterjee,Bangalore,2024-04-24,False
+590,Anjali Menon,Mumbai,2024-04-29,True
+591,Saanvi Chatterjee,Hyderabad,2025-02-13,False
+592,Suresh Pai,Mumbai,2024-12-16,False
+593,Kiara Shetty,Pune,2024-10-23,False
+594,Meera Reddy,Hyderabad,2025-01-26,False
+595,Ishaan Pillai,Delhi NCR,2024-05-27,False
+596,Lakshmi Shetty,Mumbai,2025-01-18,False
+597,Meera Mathew,Mumbai,2024-10-06,False
+598,Sneha Rao,Bangalore,2024-09-26,False
+599,Priya Nair,Delhi NCR,2024-06-04,False
+600,Priya Joseph,Mumbai,2024-06-19,False
